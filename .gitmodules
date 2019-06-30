@@ -7,3 +7,8 @@
 	path = odoo/odoo
 	url = git@github.com:odoo/odoo.git
 	branch = 12.0
+
+[submodule "zaidkilani/testcode21"]
+	path = zaidkilani/testcode21
+	url = git@github.com:zaidkilani/testcode2.git
+	branch = 123
